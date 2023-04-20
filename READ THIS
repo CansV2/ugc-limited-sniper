@@ -1,1 +1,0 @@
-if you are given an error that says no module found and then says the module name, run command prompt as an administator and then do pip install (whatever is not found)
