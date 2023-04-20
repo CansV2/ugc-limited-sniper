@@ -1,9 +1,4 @@
-This is a ugc limited sniper project that collects free roblox ugcs.
-First, click the "code" button at the top right and then click "Download ZIP"
-then you will run the file inside the folder called "bot.py" 
-after you do this it will either ask you for a item ID
-If it continues to not work than DM me
-
+DM me if u need help
 
 
 Canstantine Reborn #0104
