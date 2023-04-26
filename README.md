@@ -1,6 +1,7 @@
-before you use make sure you have python 3.10. If you do not look up python 3.10 installer and scroll all the way down and click windows installer 3.10.
-whenever u install it in the setup screen it will say at the bottom left something like 'add python to PATH" click that and then continue with the installation.
-
-DM me if u need help
+before you use make sure you have python 3.10 or above installed and added to path.
+After open cmd prompt as adminstator and then do pip install requests, pip install pycryptodome, and pip install fade
+after that click the green code button and click download ZIP 
+after that open up the file and run bot.py and then it should be working
+if not DM me
 
 Canstantine Reborn #0104
